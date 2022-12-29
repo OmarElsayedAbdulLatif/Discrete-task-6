@@ -1,35 +1,34 @@
 ﻿using System;
-
-namespace Prime_numbers1
+public class Exercise28
 {
-    internal class Program
+    public static void Main()
     {
-        static void Main(string[] args)
+        int n, i, sum;
+        int mn, mx;
+
+        Console.Write("\n\n");
+        Console.Write("Find perfect numbers within a given number of range:\n");
+        Console.Write("------------------------------------------------------");
+        Console.Write("\n\n");
+
+        Console.Write("Input the starting range or number : ");
+        mn = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Input the ending range of number : ");
+        mx = Convert.ToInt32(Console.ReadLine());
+        Console.Write("The Perfect numbers within the given range : ");
+        for (n = mn; n <= mx; n++)
         {
-            Console.WriteLine("Enter a number");
-            int numbers = int.Parse(Console.ReadLine());
-
-            int j;
-            bool current = false;
-
-            for (int i = 2; i <= numbers; i++)
+            i = 1;
+            sum = 0;
+            while (i < n)
             {
-                for (j =2; j < i; j++)
-                {
-
-                    if (i % j == 0)
-                    {
-                        current = true;
-                    }
-                } 
-                if (current == false)
-                {
-                    Console.WriteLine("the PrimeNumbers Are {0} ", j);
-                }
-
-                else current = false;
+                if (n % i == 0)
+                    sum = sum + i;
+                i++;
             }
-
+            if (sum == n)
+                Console.Write("{0} ", n);
         }
+        Console.Write("\n");
     }
 }

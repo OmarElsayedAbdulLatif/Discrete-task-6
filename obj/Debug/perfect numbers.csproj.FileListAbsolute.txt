@@ -1,0 +1,8 @@
+D:\Visual studio 2022\perfect numbers\bin\Debug\perfect numbers.exe.config
+D:\Visual studio 2022\perfect numbers\bin\Debug\perfect numbers.exe
+D:\Visual studio 2022\perfect numbers\bin\Debug\perfect numbers.pdb
+D:\Visual studio 2022\perfect numbers\obj\Debug\perfect numbers.csproj.AssemblyReference.cache
+D:\Visual studio 2022\perfect numbers\obj\Debug\perfect numbers.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio 2022\perfect numbers\obj\Debug\perfect numbers.csproj.CoreCompileInputs.cache
+D:\Visual studio 2022\perfect numbers\obj\Debug\perfect numbers.exe
+D:\Visual studio 2022\perfect numbers\obj\Debug\perfect numbers.pdb
