@@ -1,0 +1,8 @@
+D:\Visual studio 2022\Prime numbers1\bin\Debug\Prime numbers1.exe.config
+D:\Visual studio 2022\Prime numbers1\bin\Debug\Prime numbers1.exe
+D:\Visual studio 2022\Prime numbers1\bin\Debug\Prime numbers1.pdb
+D:\Visual studio 2022\Prime numbers1\obj\Debug\Prime numbers1.csproj.AssemblyReference.cache
+D:\Visual studio 2022\Prime numbers1\obj\Debug\Prime numbers1.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio 2022\Prime numbers1\obj\Debug\Prime numbers1.csproj.CoreCompileInputs.cache
+D:\Visual studio 2022\Prime numbers1\obj\Debug\Prime numbers1.exe
+D:\Visual studio 2022\Prime numbers1\obj\Debug\Prime numbers1.pdb
